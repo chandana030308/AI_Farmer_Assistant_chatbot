@@ -12,6 +12,7 @@ Ask farming-related questions about:
 - Fertilizers
 - Pests
 - Seasons
+  ![AI-Farmer-Assistant-Chatbot](https://github.com/chandana030308/AI_Farmer_Assistant_chatbot/blob/925b612de7a2208ccdb535f0ed4b2f683a208675/Screenshot%20(566).png)
 
 ### 🌱 Crop Recommendation
 Provides crop recommendations based on:
