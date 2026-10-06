@@ -12,7 +12,8 @@ Ask farming-related questions about:
 - Fertilizers
 - Pests
 - Seasons
-  ![AI-Farmer-Assistant-Chatbot](https://github.com/chandana030308/AI_Farmer_Assistant_chatbot/blob/925b612de7a2208ccdb535f0ed4b2f683a208675/Screenshot%20(566).png)
+  ![AI_Farmer
+  _Assistant_chatbot](https://github.com/chandana030308/AI_Farmer_Assistant_chatbot/blob/925b612de7a2208ccdb535f0ed4b2f683a208675/Screenshot%20(566).png)
 
 ### 🌱 Crop Recommendation
 Provides crop recommendations based on:
@@ -23,7 +24,7 @@ Provides crop recommendations based on:
 - Humidity
 - Soil pH
 - Rainfall
-  ![AI-Farmer-Assistant-Chatbot](https://github.com/chandana030308/AI_Farmer_Assistant_chatbot/blob/75996e1064be6dd956a791871dfa2865ce92c7db/Screenshot%20(567).png)
+  ![AI_Farmer_Assistant_chatbot](https://github.com/chandana030308/AI_Farmer_Assistant_chatbot/blob/75996e1064be6dd956a791871dfa2865ce92c7db/Screenshot%20(567).png)
 
 ### 📷 Crop & Soil Scanner
 Allows users to:
@@ -36,7 +37,7 @@ Allows users to:
 The scanner uses a local Hugging Face model together with the existing machine learning crop prediction model.
 
 > **Note:** Image analysis cannot accurately determine laboratory soil properties such as exact pH, nitrogen, phosphorus, or potassium values. Soil testing is recommended for accurate measurements.
-![AI-Farmer-Assistant-Chatbot](https://github.com/chandana030308/AI_Farmer_Assistant_chatbot/blob/0fe72bf62c7fc03b9f665178fc86579627770ceb/Screenshot%20(568).png)
+![AI_Farmer_Assistant_chatbot](https://github.com/chandana030308/AI_Farmer_Assistant_chatbot/blob/0fe72bf62c7fc03b9f665178fc86579627770ceb/Screenshot%20(568).png)
 
 ### ⛅ Weather Information
 Provides:
@@ -47,6 +48,7 @@ Provides:
 - 5-day weather forecast
 
 Weather data is obtained using Open-Meteo.
+![AI_Farmer_Assistant_chatbot](https://github.com/chandana030308/AI_Farmer_Assistant_chatbot/blob/928af3e31c7641b0f2af45c051f61536574b0067/Screenshot%20(569).png)
 
 ### 📊 Dataset Explorer
 Allows users to:
