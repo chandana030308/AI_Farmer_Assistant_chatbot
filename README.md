@@ -23,6 +23,7 @@ Provides crop recommendations based on:
 - Humidity
 - Soil pH
 - Rainfall
+  ![AI-Farmer-Assistant-Chatbot](https://github.com/chandana030308/AI_Farmer_Assistant_chatbot/blob/75996e1064be6dd956a791871dfa2865ce92c7db/Screenshot%20(567).png)
 
 ### 📷 Crop & Soil Scanner
 Allows users to:
