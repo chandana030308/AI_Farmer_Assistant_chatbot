@@ -56,7 +56,7 @@ Allows users to:
 - Check the number of rows and columns
 - View summary statistics
 - Explore crop distribution
-
+![AI_Farmer_Assistant_chatbot](https://github.com/chandana030308/AI_Farmer_Assistant_chatbot/blob/c3c9d43dbf050d6b77e270e0970f3049826922c7/Screenshot%20(570).png)
 ---
 
 ## 🛠️ Technologies Used
