@@ -36,6 +36,7 @@ Allows users to:
 The scanner uses a local Hugging Face model together with the existing machine learning crop prediction model.
 
 > **Note:** Image analysis cannot accurately determine laboratory soil properties such as exact pH, nitrogen, phosphorus, or potassium values. Soil testing is recommended for accurate measurements.
+![AI-Farmer-Assistant-Chatbot](https://github.com/chandana030308/AI_Farmer_Assistant_chatbot/blob/0fe72bf62c7fc03b9f665178fc86579627770ceb/Screenshot%20(568).png)
 
 ### ⛅ Weather Information
 Provides:
